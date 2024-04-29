@@ -2,7 +2,7 @@
 Name : HARITHASHREE.V
 Register Number: 212222230046
 ```
-# EXPERIMENT 06 INTERRUPT GENERATION USING PUSHBUTTON AND SIMULATING THE OUTPUT
+# EXPERIMENT 07 INTERRUPT GENERATION USING PUSHBUTTON AND SIMULATING THE OUTPUT
 
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
